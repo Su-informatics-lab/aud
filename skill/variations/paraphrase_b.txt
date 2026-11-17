@@ -1,0 +1,9 @@
+Review all notes in this patient's chart and classify AUD on the required six-point scale.
+
+The adjudication rules are unchanged: check Section 3.1 Definitely Yes triggers first; prefer narrative evidence over structured fields (Section 4.1); never downgrade for current sobriety (Section 4.2); and treat one qualifying trigger as sufficient (Section 4.3). Include the supporting quotation, quote source, and reasoning.
+
+---
+
+PATIENT CHART NOTES — {n_notes} note(s) for this patient.
+
+{notes_text}

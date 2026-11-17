@@ -1,0 +1,12 @@
+PATIENT CHART NOTES — {n_notes} note(s) for this patient.
+
+{notes_text}
+
+---
+
+Using the complete chart above, assign one of the six AUD classifications. Apply the adjudication guidance exactly, including these requirements:
+- Evaluate the Definitely Yes triggers in Section 3.1 before the other categories.
+- When narrative and structured fields conflict, follow the narrative (Section 4.1).
+- Do not lower a classification because the patient is currently sober (Section 4.2).
+- A single qualifying trigger is sufficient (Section 4.3).
+- Return the supporting quotation, its source, and the reasoning for the classification.

@@ -1,0 +1,12 @@
+PATIENT CHART NOTES — {n_notes} note(s) for this patient.
+
+{notes_text}
+
+---
+
+Based on all the notes above, classify this patient's AUD status using the six-point scale. Follow the guidance precisely. Remember:
+- Check for Definitely Yes triggers first (Section 3.1).
+- Narrative beats structured fields (Section 4.1).
+- Current sobriety never lowers the classification (Section 4.2).
+- One trigger is enough (Section 4.3).
+- Provide the supporting quote, its source, and your reasoning.
